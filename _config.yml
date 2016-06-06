@@ -1,5 +1,6 @@
-layout_spectrum: 0.9907620563171804
 typography_spectrum: 0.37254079687409103
+content_rating:
+  adult: false
 color:
   brandStrength: 0.9537818997632712
   lightness: 0.7762217556592077
@@ -11,4 +12,10 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
+layout_spectrum: 0.9907620563171804
+author:
+  name: Ryan Fickling
+  url: www.ficklingmedia.com
+  email: ryan@ficklingmedia.com
 name: 'Fickling Media, LLC'
+title: Experience Video
