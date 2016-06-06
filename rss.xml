@@ -2,10 +2,16 @@
     <channel>
         <title><![CDATA[Experience Video]]></title>
         <description><![CDATA[Experience Video]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fickling-media-llc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 21:15:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 06 Jun 2016 21:57:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fickling-media-llc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/FicklingMedia/</link>
+            <guid isPermaLink="false">ca1b61cf-a4f3-4b5e-9e60-fe4044152689</guid>
+            <pubDate>Mon, 06 Jun 2016 21:57:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Fickling.Media (@FicklingMedia): "Shout out to the Happiness Engineer @thegrid! Still up engineering happiness this late on a Sunday. These guys do work!"</p>]]></description>
