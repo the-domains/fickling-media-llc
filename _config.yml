@@ -1,4 +1,4 @@
-typography_spectrum: 0.37254079687409103
+typography_spectrum: 0.1468475095462054
 content_rating:
   adult: false
 color:
@@ -12,7 +12,7 @@ color:
     - '#374140'
     - '#2A2C2B'
     - '#1E1E20'
-layout_spectrum: 0.9907620563171804
+layout_spectrum: 0.19678514311090112
 author:
   name: Ryan Fickling
   url: www.ficklingmedia.com
