@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-28T03:41:06.425Z'
-datePublished: '2016-06-28T03:41:19.995Z'
+dateModified: '2016-06-28T03:46:21.458Z'
+datePublished: '2016-06-28T03:55:09.034Z'
 title: Don’t forget to like us on Facebook
 author: []
 isBasedOnUrl: >-
@@ -14,8 +14,8 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b81d5841-476c-4ac2-a0b9-4829100c8379.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96c579e986723f4a2895dd86a25ea3d0/croprotate.png?cropheight=1239&cropwidth=2533&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb81d5841-476c-4ac2-a0b9-4829100c8379.png&x=0&y=0)
 
 # Don't forget to like us on Facebook
 
-www.facebook.com/fickingmedia
+www.facebook.com/FickingMedia
