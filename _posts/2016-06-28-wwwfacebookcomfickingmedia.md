@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-06-28T03:46:21.458Z'
-datePublished: '2016-06-28T03:55:09.034Z'
+dateModified: '2016-06-28T03:59:18.879Z'
+datePublished: '2016-06-29T04:05:41.685Z'
 title: Don’t forget to like us on Facebook
 author: []
 isBasedOnUrl: >-
@@ -18,4 +18,4 @@ _type: MediaObject
 
 # Don't forget to like us on Facebook
 
-www.facebook.com/FickingMedia
+www.facebook.com/fickingmedia
