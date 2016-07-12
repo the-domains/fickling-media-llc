@@ -4,8 +4,15 @@
         <description><![CDATA[Experience Video]]></description>
         <link>http://www.ficklingmedia.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 04:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 18:41:11 GMT</lastBuildDate>
         <atom:link href="http://www.ficklingmedia.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Confused About Codecs? This Video Tutorial Will Teach You What You Need to Know]]></title>
+            <description><![CDATA[<article><h1>Confused About Codecs? This Video Tutorial Will Teach You What You Need to Know</h1><p>Codecs are complicated. They're also an extremely important aspect of image quality, so having a basic understanding of how they work can be beneficial. Unfortunately, for young and old filmmakers alike, trying to unravel and decipher some of the engineering concepts behind how video encoding actually works can be a bit like trying to paint a barn with a toothbrush.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c0183121245bba870ca2e61964a4676/noop.png?input=http%3A%2F%2Fnofilmschool.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Ffacebook%2Fpublic%2FScreen%2520Shot%25202014-09-08%2520at%252012.56.28%2520PM.png%3Fitok%3DoZ0PPrC6"></article>]]></description>
+            <link>http://nofilmschool.com/2014/09/everything-you-need-know-about-codecs</link>
+            <guid isPermaLink="false">12764385-cf34-42f9-b6c4-82be0e1b1fa7</guid>
+            <pubDate>Tue, 12 Jul 2016 18:41:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Don’t forget to like us on Facebook]]></title>
             <description><![CDATA[<article><h1>Don’t forget to like us on Facebook</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96c579e986723f4a2895dd86a25ea3d0/croprotate.png?cropheight=1239&cropwidth=2533&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb81d5841-476c-4ac2-a0b9-4829100c8379.png&x=0&y=0"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.facebook.com/YourEdm/videos/967342193373470/</link>
             <guid isPermaLink="false">fc9dc9d7-5271-4bb8-9f32-e1bd87f64b59</guid>
             <pubDate>Wed, 08 Jun 2016 19:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Ways to Think Like a Professional Filmmaker]]></title>
-            <description><![CDATA[<article><h1>10 Ways to Think Like a Professional Filmmaker</h1><p>Some of the best advice I've ever gotten about the artistic process was from renowned comic book illustrator Michael Zulli who said, "Learn everything about your craft and then forget it." This seemed a bit obtuse to me at the time, but then it unfolded like a flower and I realized that bit of wisdom contained everything I needed to know about art.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1569c5532712163ebcb2cbef2a7ee308c8f66bb.png"></article>]]></description>
-            <link>https://www.videomaker.com/article/c10/17025-10-ways-to-think-like-a-professional-filmmaker</link>
-            <guid isPermaLink="false">f25be703-103d-4cb7-b1a3-14b8cb9c3d71</guid>
-            <pubDate>Wed, 08 Jun 2016 19:49:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
